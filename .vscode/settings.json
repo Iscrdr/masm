@@ -1,4 +1,12 @@
 {
     "C_Cpp.default.compilerPath": "",
-    "git.path": "D:/software/Git/bin/git.exe"
+    "git.path": "D:/software/Git/bin/git.exe",
+    "editor.minimap.enabled": true,
+    "files.autoGuessEncoding": true,
+    "workbench.statusBar.visible": true,
+    "files.eol": "\n",
+    "markdown.editor.filePaste.enabled": "always",
+    "C_Cpp.default.systemIncludePath": [
+        "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
+    ]
 }
