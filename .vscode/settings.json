@@ -9,5 +9,15 @@
     "C_Cpp.default.systemIncludePath": [
         "/usr/include",
         "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1d9f61",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.noFolderBackground": "#1d9f61",
+        "statusBar.debuggingBackground": "#1d9f61",
+        "titleBar.activeBackground": "#1d9f61",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#1d9f61",
+        "titleBar.inactiveForeground": "#ffffff"
+    }
 }
