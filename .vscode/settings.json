@@ -8,5 +8,7 @@
     "markdown.editor.filePaste.enabled": "always",
     "C_Cpp.default.systemIncludePath": [
         "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
-    ]
+    ],
+    "editor.fontFamily": "Maple Mono Normal NL",
+    "editor.fontVariations": false
 }
