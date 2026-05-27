@@ -17,6 +17,9 @@
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.configuration.runtimes": [
+
+        
+
         {
             "name": "JavaSE-25",
             "path": "E:\\software\\graalvm-jdk-25+37.1",
@@ -24,6 +27,7 @@
         },
     ],
     "java.jdt.ls.java.home": "E:\\software\\graalvm-jdk-25+37.1",
+
 
 
     "window.title.BarStyle": "custom",
