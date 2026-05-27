@@ -1,5 +1,5 @@
 {
-    "C_Cpp.default.compilerPath": "",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
     "git.path": "D:/software/Git/bin/git.exe",
     "editor.minimap.enabled": true,
     "files.autoGuessEncoding": true,
@@ -7,6 +7,7 @@
     "files.eol": "\n",
     "markdown.editor.filePaste.enabled": "always",
     "C_Cpp.default.systemIncludePath": [
+        "/usr/include",
         "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
     ]
 }
