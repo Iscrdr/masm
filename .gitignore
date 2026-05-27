@@ -2,3 +2,6 @@
 .vscode/
 out
 .vscode/**
+dev/.idea
+dev/.vscode
+dev/target

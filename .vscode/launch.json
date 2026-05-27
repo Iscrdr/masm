@@ -2,6 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "name": "C Debug (Linux Remote) day1",
             "type": "cppdbg",
             "request": "launch",
@@ -33,3 +34,20 @@
         }
     ]
 }
+=======
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.bzz.cloud.Main",
+            "projectName": "Compiler"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.thread.App",
+            "projectName": "dev"
+        }
+    ]
+}
+>>>>>>> 0a9cfd6 (修改文档)
