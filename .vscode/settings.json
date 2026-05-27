@@ -24,6 +24,7 @@
         },
     ],
     "java.jdt.ls.java.home": "E:\\software\\graalvm-jdk-25+37.1",
+<<<<<<< HEAD
 
     "window.title.BarStyle": "custom",
 
@@ -52,5 +53,38 @@
     "titleBar.inactiveBackground": "#1d9f61"
 }
 
+=======
+    
+ "workbench.colorCustomizations": {
+    // 标题栏（最上面那条）
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveForeground": "#ffffff",
+
+    // 侧边栏（资源管理器那一列）
+    "sideBar.foreground": "#ffffff",
+    "sideBarSectionHeader.foreground": "#ffffff",
+
+    // 资源管理器文件/文件夹文字
+    "tree.foreground": "#ffffff",
+
+    // 活动栏（最左边图标列）
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffff",
+
+    // 标签页（打开的文件名）
+    "tab.activeForeground": "#ffffff",
+    "tab.inactiveForeground": "#ffffff",
+
+    // 顶部菜单（File Edit View...）
+    "menu.foreground": "#ffffff",
+    "menubar.foreground": "#ffffff",
+
+    // 状态栏（最下面一行）
+    "statusBar.foreground": "#ffffff",
+
+    // 面板/终端等
+    "panel.foreground":"#ffffff",
+  }
+>>>>>>> b4e3558 (修改文档)
 
 }
