@@ -3,8 +3,12 @@
     "configurations": [
         {
 
+
             "name": "C Debug (Linux Remote) day1",
             "type": "cppdbg",
+
+
+
             "request": "launch",
             "program": "${workspaceFolder}/out/day1/a.out",
             "args": [],
@@ -34,6 +38,9 @@
         }
     ]
 
+
     
+
+
 }
 
