@@ -10,24 +10,22 @@
         "/usr/include",
         "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
     ],
-<<<<<<< HEAD
     "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#1d9f61",
+        "titleBar.activeForeground": "#ffffff",
         "statusBar.background": "#1d9f61",
         "statusBar.foreground": "#ffffff",
         "statusBar.noFolderBackground": "#1d9f61",
         "statusBar.debuggingBackground": "#1d9f61",
-        "titleBar.activeBackground": "#1d9f61",
-        "titleBar.activeForeground": "#ffffff",
         "titleBar.inactiveBackground": "#1d9f61",
         "titleBar.inactiveForeground": "#ffffff"
-    }
-=======
+    },
+
     "editor.fontFamily": "Maple Mono Normal NL",
     "editor.fontVariations": false,
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.configuration.runtimes": [
-        
         {
             "name": "JavaSE-25",
             "path": "E:\\software\\graalvm-jdk-25+37.1",
@@ -35,38 +33,9 @@
         },
     ],
     "java.jdt.ls.java.home": "E:\\software\\graalvm-jdk-25+37.1",
-<<<<<<< HEAD
     "window.title.BarStyle": "custom",
-      "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#aebea9",   // 白色标题栏
-    "titleBar.activeForeground": "#333333",   // 深色字
-    //"titleBar.inactiveBackground": "#f5f5f5"  // 没焦点时浅灰
 
-  },
-  
-=======
-    
- "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveForeground": "#ffffff",
-    "sideBar.foreground": "#ffffff",
-    "sideBarSectionHeader.foreground": "#ffffff",
-    "tree.foreground": "#ffffff",
-    "activityBar.foreground": "#ffffff",
-    "activityBar.inactiveForeground": "#ffffff",
-    "tab.activeForeground": "#ffffff",
-    "tab.inactiveForeground": "#ffffff",
-    "menu.foreground": "#ffffff",
-    "menubar.foreground": "#ffffff",
-    "statusBar.foreground": "#ffffff",
-    "panel.foreground": "#ffffff"
-<<<<<<< HEAD
-}
->>>>>>> ff1761b (词法分析)
-=======
-},
-"codeQL.createQuery.qlPackLocation": "/code/masm"
->>>>>>> 4c49a4b (测试1)
+   
 
->>>>>>> 0a9cfd6 (修改文档)
+
 }

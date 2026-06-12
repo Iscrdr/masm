@@ -2,8 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
+
             "name": "C Debug (Linux Remote) day1",
             "type": "cppdbg",
             "request": "launch",
@@ -34,59 +33,7 @@
             "preLaunchTask": "build-day2"
         }
     ]
+
+    
 }
-=======
-=======
->>>>>>> ff1761b (词法分析)
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "com.bzz.cloud.Main",
-            "projectName": "Compiler"
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "com.thread.App",
-            "projectName": "dev"
-        }
-    ]
-}
-<<<<<<< HEAD
->>>>>>> 0a9cfd6 (修改文档)
-=======
-=======
-            "name": "C Debug (Linux Remote) day1",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${workspaceFolder}/out/day1/a.out",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "miDebuggerPath": "/usr/bin/gdb",
-            "setupCommands": [
-                {
-                    "description": "Enable gdb pretty-printing",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ]
-        },
-         {
-            "name": "C Debug (Linux Remote) day2",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${workspaceFolder}/out/day2/a.out",
-            "cwd": "${workspaceFolder}/day2",
-            "MIMode": "gdb",
-            "miDebuggerPath": "/usr/bin/gdb",
-            "preLaunchTask": "build-day2"
-        }
-    ]
-}
->>>>>>> dc59150 (忽略out)
->>>>>>> ff1761b (词法分析)
+
