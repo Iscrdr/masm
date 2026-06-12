@@ -35,6 +35,7 @@
         },
     ],
     "java.jdt.ls.java.home": "E:\\software\\graalvm-jdk-25+37.1",
+<<<<<<< HEAD
     "window.title.BarStyle": "custom",
       "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#aebea9",   // 白色标题栏
@@ -43,6 +44,24 @@
 
   },
   
+=======
+    
+ "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveForeground": "#ffffff",
+    "sideBar.foreground": "#ffffff",
+    "sideBarSectionHeader.foreground": "#ffffff",
+    "tree.foreground": "#ffffff",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffff",
+    "tab.activeForeground": "#ffffff",
+    "tab.inactiveForeground": "#ffffff",
+    "menu.foreground": "#ffffff",
+    "menubar.foreground": "#ffffff",
+    "statusBar.foreground": "#ffffff",
+    "panel.foreground": "#ffffff"
+}
+>>>>>>> ff1761b (词法分析)
 
 >>>>>>> 0a9cfd6 (修改文档)
 }

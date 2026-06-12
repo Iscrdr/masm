@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vscode
 .vscode/
 out
@@ -5,3 +6,8 @@ out
 dev/.idea
 dev/.vscode
 dev/target
+
+# .vscode
+.vscode/
+out
+
