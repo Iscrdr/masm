@@ -10,12 +10,16 @@
         "/usr/include",
         "E:\\software\\w64devkit-x64-2.5\\w64devkit\\include"
     ],
+
+
     "editor.fontFamily": "Maple Mono Normal NL",
     "editor.fontVariations": false,
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.configuration.runtimes": [
+
         
+
         {
             "name": "JavaSE-25",
             "path": "E:\\software\\graalvm-jdk-25+37.1",
@@ -23,36 +27,36 @@
         },
     ],
     "java.jdt.ls.java.home": "E:\\software\\graalvm-jdk-25+37.1",
+
+
+
+    "window.title.BarStyle": "custom",
+
+   
+
+
     
  "workbench.colorCustomizations": {
-    // 标题栏（最上面那条）
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveForeground": "#ffffff",
-
-    // 侧边栏（资源管理器那一列）
     "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.foreground": "#ffffff",
-
-    // 资源管理器文件/文件夹文字
     "tree.foreground": "#ffffff",
-
-    // 活动栏（最左边图标列）
     "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#ffffff",
-
-    // 标签页（打开的文件名）
     "tab.activeForeground": "#ffffff",
     "tab.inactiveForeground": "#ffffff",
-
-    // 顶部菜单（File Edit View...）
     "menu.foreground": "#ffffff",
     "menubar.foreground": "#ffffff",
-
-    // 状态栏（最下面一行）
     "statusBar.foreground": "#ffffff",
+    "panel.foreground": "#ffffff",
+    "statusBar.background": "#1d9f61",
+    "statusBar.noFolderBackground": "#1d9f61",
+    "statusBar.debuggingBackground": "#1d9f61",
+    "titleBar.activeBackground": "#1d9f61",
+    "titleBar.inactiveBackground": "#1d9f61"
+}
 
-    // 面板/终端等
-    "panel.foreground":"#ffffff",
-  }
+
 
 }

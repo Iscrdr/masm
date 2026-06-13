@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-<<<<<<< HEAD
+
             "type": "java",
             "name": "Main",
             "request": "launch",
@@ -16,11 +16,18 @@
             "mainClass": "com.thread.App",
             "projectName": "dev"
         }
-    ]
-}
-=======
+    
+,
+
+{
+
+
+
             "name": "C Debug (Linux Remote) day1",
             "type": "cppdbg",
+
+
+
             "request": "launch",
             "program": "${workspaceFolder}/out/day1/a.out",
             "args": [],
@@ -49,5 +56,10 @@
             "preLaunchTask": "build-day2"
         }
     ]
+
+
+    
+
+
 }
->>>>>>> dc591503f974c61996be244f89bf4ebe473db962
+
