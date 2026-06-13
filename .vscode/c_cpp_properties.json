@@ -1,15 +1,26 @@
 {
     "configurations": [
         {
-            "name": "Win64",
+            "name": "Linux",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/include",
+                "/usr/include",
+                "/usr/local/include",
+                "/usr/libexec/gcc/x86_64-redhat-linux/14/cc1",
+                "/usr/lib/gcc/x86_64-redhat-linux/14/include"
             ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ]
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/usr/include",
+                    "/usr/local/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
         }
     ],
     "version": 4
