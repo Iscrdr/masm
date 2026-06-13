@@ -60,8 +60,13 @@
     "menubar.foreground": "#ffffff",
     "statusBar.foreground": "#ffffff",
     "panel.foreground": "#ffffff"
+<<<<<<< HEAD
 }
 >>>>>>> ff1761b (词法分析)
+=======
+},
+"codeQL.createQuery.qlPackLocation": "/code/masm"
+>>>>>>> 4c49a4b (测试1)
 
 >>>>>>> 0a9cfd6 (修改文档)
 }
