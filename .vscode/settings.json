@@ -1,7 +1,7 @@
 {
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
     "git.path": "D:/software/Git/bin/git.exe",
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "files.autoGuessEncoding": true,
     "workbench.statusBar.visible": true,
     "files.eol": "\n",
